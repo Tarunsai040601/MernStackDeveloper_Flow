@@ -1,0 +1,26 @@
+.buttons {
+  display: flex;
+  gap: 40px;
+}
+
+.Btn_01 {
+  border: 4px;
+  border-radius: 5px;
+  background-color: green;
+  color: azure;
+  cursor: pointer;
+}
+.Btn_02 {
+  border: 4px;
+  border-radius: 5px;
+  background-color: bisque;
+  color: black;
+  cursor: pointer;
+}
+.Btn_03 {
+  border: 4px;
+  border-radius: 5px;
+  background-color: red;
+  color: azure;
+  cursor: pointer;
+}
